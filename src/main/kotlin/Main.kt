@@ -17,7 +17,7 @@ fun main() {
         }
     }
 
-    //Crie um range de números de 1 a 100 e imprima apenas os números pares:
+    //3-Crie um range de números de 1 a 100 e imprima apenas os números pares:
     for(i in 1..100){
         if(i%2==0){
             if(i<100){
